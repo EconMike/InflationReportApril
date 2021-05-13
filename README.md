@@ -1,2 +1,2 @@
 # InflationReportApril
-The Economic Monitor: Inflation report.  The code the chart is here.  
+The Economic Monitor: Inflation report.  The code for the chart is here.  
